@@ -4,7 +4,7 @@
 
  
 + Git/GitHub: Básico
-+ HTML: Intermediário
++ HTML: Básico
 + CSS: Básico
-+ JavaScript: Básico
++ JavaScript: Comecei a estudar agora
 
